@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\careerHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|c:\\users\\admin\\source\\repos\\careerhub\\main\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|solutionrelative:main\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|c:\\users\\admin\\source\\repos\\careerhub\\repository\\jobsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|solutionrelative:repository\\jobsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|c:\\users\\admin\\source\\repos\\careerhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|c:\\users\\admin\\source\\repos\\careerhub\\services\\ijobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|solutionrelative:services\\ijobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|c:\\users\\admin\\source\\repos\\careerhub\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|solutionrelative:utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|c:\\users\\admin\\source\\repos\\careerhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|c:\\users\\admin\\source\\repos\\careerhub\\services\\jobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|solutionrelative:services\\jobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|c:\\users\\admin\\source\\repos\\careerhub\\repository\\ijobsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9113F1B5-3F9D-4BA2-95A8-936AC2AE925D}|careerHub.csproj|solutionrelative:repository\\ijobsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\careerHub\\Main\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Main\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\careerHub\\Main\\MainMenu.cs",
+              "RelativeToolTip": "Main\\MainMenu.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:17:47.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\careerHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\careerHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:06:55.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\careerHub\\Utility\\DbConnUtil.cs",
+              "RelativeDocumentMoniker": "Utility\\DbConnUtil.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\careerHub\\Utility\\DbConnUtil.cs",
+              "RelativeToolTip": "Utility\\DbConnUtil.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:01:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\careerHub\\appSettings.json",
+              "RelativeDocumentMoniker": "appSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\careerHub\\appSettings.json",
+              "RelativeToolTip": "appSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T08:01:44.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJobsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\careerHub\\Repository\\IJobsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IJobsRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\careerHub\\Repository\\IJobsRepository.cs",
+              "RelativeToolTip": "Repository\\IJobsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:33:45.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\careerHub\\Repository\\JobsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\JobsRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\careerHub\\Repository\\JobsRepository.cs",
+              "RelativeToolTip": "Repository\\JobsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:59:28.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobsService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\careerHub\\Services\\JobsService.cs",
+              "RelativeDocumentMoniker": "Services\\JobsService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\careerHub\\Services\\JobsService.cs",
+              "RelativeToolTip": "Services\\JobsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:59:04.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJobsService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\careerHub\\Services\\IJobsService.cs",
+              "RelativeDocumentMoniker": "Services\\IJobsService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\careerHub\\Services\\IJobsService.cs",
+              "RelativeToolTip": "Services\\IJobsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:34:13.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
